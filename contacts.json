@@ -1,5 +1,4 @@
 [
-  // TODAY
   {
     title: 'TODAY',
     data: [
@@ -17,7 +16,6 @@
       }
     ]
   },
-  // TOMORROW
   {
     title: 'TOMORROW',
     data: [
@@ -47,7 +45,6 @@
       }
     ]
   },
-  // DECEMBER
   {
     title: 'DECEMBER 2019',
     data: [
